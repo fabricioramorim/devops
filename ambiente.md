@@ -27,7 +27,7 @@ choco install terraform
 
 Basta ir até a página de download, selecionar se qual a versão a ser baixada, dando preferência para 64-bit, extrair o arquivo e instalá-lo.
 
-## Python
+# Python
 Caso você ainda não tenha instalado o Python, segue um pequeno tutorial de como fazê-lo.
 
 ### Ubuntu
@@ -51,7 +51,7 @@ choco install python
 
 Basta ir até a página de download, selecionar se qual a versão a ser baixada, extrair o arquivo e instalá-lo.
 
-## Ansible
+# Ansible
 Caso você ainda não tenha instalado o Ansible, segue um pequeno tutorial de como fazê-lo.
 
 ### Ubuntu
@@ -73,7 +73,7 @@ O Ansible não tem suporte nativo para Windows, porém é possível utilizar o p
 python -m pip install --user ansible
 python -m pip install --user paramiko
 ```
-## AWS CLI
+# AWS CLI
 Caso você ainda não tenha instalado a AWS CLI, basta ir a página da AWS CLI e seguir os procedimentos para o seu sistema operacional.
 
 Depois de instalado você pode configurar a AWS usando o comando aws configure onde será requisitado a chave secreta (secret key) que pode ser criada nessa pagina clicando em “criar chave de acesso” na aba “credenciais do AWS IAM”.
